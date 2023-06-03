@@ -929,7 +929,7 @@ body #skills .project_slider {
 }
 
 @media (max-width: 768px) {
-  body #skills .project_slider .uk-slider-items img {
+  /* body #skills .project_slider .uk-slider-items img {
     height: 300px;
     -o-object-fit: cover;
        object-fit: cover;
@@ -957,7 +957,7 @@ body #skills .project_slider {
   body #skills .project_slider .uk-slider-items li:nth-child(7) img {
     -o-object-position: right;
        object-position: right;
-  }
+  } */
 }
 
 body #skills .project_slider li .btn-project {
